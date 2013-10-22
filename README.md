@@ -26,7 +26,7 @@ GND = PIN GND
 
 ![alt text](http://www.unzeen.com/github/IOIO_COLOR_RECOGNITION_SENSOR/2013-10-22-21.24.44.jpg "TSC230 COLOR SENSOR")
 
-[![IOIO LED](http://img.youtube.com/vi/J7EU8U_LkFo/0.jpg)](http://www.youtube.com/watch?v=J7EU8U_LkFo)
+[![IOIO LED](http://img.youtube.com/vi/8YeO8OknX00/0.jpg)](http://www.youtube.com/watch?v=8YeO8OknX00)
 
 
 ## About Us
