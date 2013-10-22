@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO COLOR RECOGNITION</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+        
+     <string name="about">Mr.Khwanchai Kaewyos\n\n
+         
+khwanchai@gmail.com\n\n
+
+http://www.unzeen.com\n
+http://www.LookHin.com\n\n
+     </string>
+        
+     <string name="default_value">0</string>
+     <string name="default_value_rgb">RGB(R,G,B)</string>
+     
+     <string name="color_red">RED</string>
+     <string name="color_blue">BLUE</string>
+     <string name="color_green">GREEN</string>
+     <string name="color_clear">CLEAR</string>
+     <string name="color_result">RESULT</string>
+     
+     <string name="led_0">LED 0 (On Board)</string>
+     <string name="toggle_button1">ToggleButton</string>
+   
+</resources>
